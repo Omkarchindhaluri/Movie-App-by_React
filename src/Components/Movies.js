@@ -49,10 +49,10 @@ export default class Movies extends Component {
                 }): <h3>Movie Not Found...<br/>Enter a Valid Name..!</h3> }
                 </div>
                 <footer>
-                    Copyright @2021<br/>Creator - Akash Satish Magar<br/>Connect Me<br/>
-                    <a href="https://www.linkedin.com/in/akash-magar-15-july/"><i className="fab fa-linkedin-in"></i></a>
-                    <a href="https://codepen.io/akashmagar703"><i className="fab fa-codepen"></i></a>
-                    <a href="https://github.com/akashmagar703"><i className="fab fa-github"></i></a>
+                    Copyright @2021<br/>Creator - Omkar Chindhaluri<br/>Connect Me<br/>
+                    <a href="https://www.linkedin.com/in/omkar-chindhaluri-b79586178/"><i className="fab fa-linkedin-in"></i></a>
+                    <a href="https://codepen.io/omkarchindhaluri"><i className="fab fa-codepen"></i></a>
+                    <a href="https://github.com/Omkarchindhaluri"><i className="fab fa-github"></i></a>
                 </footer>
             </div>
         )
